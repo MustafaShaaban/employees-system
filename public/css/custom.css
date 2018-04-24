@@ -1,0 +1,9 @@
+.cust-table table tr .form-control {
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #3c8dbc;
+    font-size: 15px;
+}
+.cust-table table tr textarea.form-control {
+    height: 100px;
+}
